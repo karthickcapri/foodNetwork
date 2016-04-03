@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="com.foodNetwork.ServiceTest" duration-ms="78" started-at="2016-04-03T13:16:39Z" finished-at="2016-04-03T13:16:39Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="78" started-at="2016-04-03T13:16:39Z" finished-at="2016-04-03T13:16:39Z">
+      <class name="com.foodNetwork.ServiceTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.foodNetwork.ServiceTest@2aaf7cc2]" name="setup" is-config="true" duration-ms="32" started-at="2016-04-03T13:16:39Z" finished-at="2016-04-03T13:16:39Z">
+        </test-method>
+        <test-method status="PASS" signature="paramTest()[pri:0, instance:com.foodNetwork.ServiceTest@2aaf7cc2]" name="paramTest" duration-ms="15" started-at="2016-04-03T13:16:39Z" finished-at="2016-04-03T13:16:39Z">
+        </test-method>
+        <test-method status="PASS" signature="paramTest3()[pri:0, instance:com.foodNetwork.ServiceTest@2aaf7cc2]" name="paramTest3" duration-ms="0" started-at="2016-04-03T13:16:39Z" finished-at="2016-04-03T13:16:39Z">
+        </test-method>
+        <test-method status="PASS" signature="paramTest2()[pri:0, instance:com.foodNetwork.ServiceTest@2aaf7cc2]" name="paramTest2" duration-ms="0" started-at="2016-04-03T13:16:39Z" finished-at="2016-04-03T13:16:39Z">
+        </test-method>
+        <test-method status="PASS" signature="cleanCart()[pri:0, instance:com.foodNetwork.ServiceTest@2aaf7cc2]" name="cleanCart" is-config="true" duration-ms="0" started-at="2016-04-03T13:16:39Z" finished-at="2016-04-03T13:16:39Z">
+        </test-method>
+        <test-method status="PASS" signature="cleanCart()[pri:0, instance:com.foodNetwork.ServiceTest@2aaf7cc2]" name="cleanCart" is-config="true" duration-ms="0" started-at="2016-04-03T13:16:39Z" finished-at="2016-04-03T13:16:39Z">
+        </test-method>
+        <test-method status="PASS" signature="cleanCart()[pri:0, instance:com.foodNetwork.ServiceTest@2aaf7cc2]" name="cleanCart" is-config="true" duration-ms="0" started-at="2016-04-03T13:16:39Z" finished-at="2016-04-03T13:16:39Z">
+        </test-method>
+      </class>
+    </test>
+  </suite>
+</testng-results>
