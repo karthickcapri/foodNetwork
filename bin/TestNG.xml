@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="ServiceTestSuite">
+  <test name="ServiceTest1">
+    <classes>
+      <parameter name="productItems" value="ABCDABAA"></parameter>
+      <parameter name="expectedTotal" value="32.40"></parameter>
+      <class name="foodNetwork.ServiceTest"/>
+    </classes>
+  </test>
+  <test name="ServiceTest2">
+    <classes>
+      <parameter name="productItems" value="CCCCCCC"></parameter>
+      <parameter name="expectedTotal" value="7.25"></parameter>
+      <class name="foodNetwork.ServiceTest"/>
+    </classes>
+  </test>
+  <test name="ServiceTest3">
+    <classes>
+      <parameter name="productItems" value="ABCD"></parameter>
+      <parameter name="expectedTotal" value="15.40"></parameter>
+      <class name="foodNetwork.ServiceTest"/>
+    </classes>
+  </test>
+</suite>
+
+<!--<?xml version="1.0">
+<suite name="testSuite" parallel="false">
+	<test name="karthickTest">
+		<classes>
+			<parameter name="param1" value="2"></parameter>
+			<parameter name="param2" value="and a string paramter"></parameter>
+			 <class name="com.javacodegeeks.testng.ParameterExample"/> 
+			<class name="testNGTestcase"/> -->
+			
